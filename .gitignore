@@ -9,5 +9,8 @@ npm-debug.*
 *.orig.*
 web-build/
 
+# Firebase config (API KEY etc.)
+/firebaseConfig.js
+
 # macOS
 .DS_Store
